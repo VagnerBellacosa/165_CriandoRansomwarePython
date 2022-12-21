@@ -29,7 +29,8 @@ auto
 - CONTEÚDOS
 - INFORMAÇÕES
 
-[Criando um Ransomware com Python](https://web.dio.me/lab/criando-um-ransomware-com-python/learning/8d7fc4ae-4241-452c-9593-bb886ff3e157)[Entendendo o Desafio](https://web.dio.me/lab/criando-um-ransomware-com-python/learning/3b3a36fe-8b40-40c2-923f-3d6ac9243cd5)
+- [Criando um Ransomware com Python](https://web.dio.me/lab/criando-um-ransomware-com-python/learning/8d7fc4ae-4241-452c-9593-bb886ff3e157)
+- [Entendendo o Desafio](https://web.dio.me/lab/criando-um-ransomware-com-python/learning/3b3a36fe-8b40-40c2-923f-3d6ac9243cd5)
 
 
 
